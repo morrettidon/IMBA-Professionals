@@ -1,11 +1,14 @@
 <?php
 /**
- * This file adds the custom IMBA Professional Listing post type archive template to the IMBA Pro Theme.
- *
- * @author StudioPress
- * @package IMBA Pro
- * @subpackage Customizations
- * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THIS IS THE ONE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HERE IS THE WEBSITE: https://imbayarea.com/imbaprofessional/
+
+TODO:
+1) CREATE 3 ARRAYS FOR EACH PROFESSION: ATTORNEY, FINANCIAL PRO, MENTAL HEALTH PRO
+2) CREATE 3 SECTIONS ON PAGE WITH EACH PROFESSION HEADING
+3) CATEGORIZE PROFESSIONALS UNDER EACH HEADING
+
+
  */
  
 
